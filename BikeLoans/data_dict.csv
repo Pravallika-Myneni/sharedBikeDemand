@@ -1,0 +1,13 @@
+Field Name;Description;;;;;
+Id_Historico_Prestamo;Loan ID;;;;;
+Id_Usuario;User ID;;;;;
+Id_Tag_Bicicleta;Tag ID of the bike. The same bike can have multiple tags over the year.;;;;;
+Fecha_Prestamo;Loan start date/time;;;;;
+Fecha_Devolucion;Loan stop date/time;;;;;
+Id_Aparcamiento_Origen ;ID of the loan station;;;;;
+Id_Aparcamiento_Destino;ID of the station where the bike was returned;;;;;
+Posicion_Origen;Position number of the bike in the station;;;;;
+Importe;Cost of the local (not applicable);;;;;
+Descripcion Importe;Description of the cost (not applicable);;;;;
+operario;If it is a manual station, who was the worker.;;;;;
+Num_Bici_Hist;Not applicable;;;;;
